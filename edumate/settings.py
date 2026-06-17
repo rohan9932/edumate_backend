@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # dependencies
     "rest_framework",
     'rest_framework_simplejwt',
+    'django_softdelete',
     # our app
     "api"
 ]
