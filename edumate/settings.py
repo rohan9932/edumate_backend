@@ -184,4 +184,4 @@ SIMPLE_JWT = {
 }
 
 # need to route our user to default auth user
-AUTH_USER_MODEL = 'api.AppUser'
+AUTH_USER_MODEL = 'api.AppUserModel'
